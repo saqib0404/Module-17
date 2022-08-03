@@ -56,11 +56,13 @@
 //     console.log(i);
 // }
 
-var booksPrice = [100, 200, 300, 250, 180, 500, 120, 30, 45, 210, 10];
-for(i=0; i<booksPrice.length; i++){
-    var bookPrice = booksPrice[i];
-    if(bookPrice >= 200){
-        continue;
-    }
-    console.log(bookPrice);
-}
+// var booksPrice = [100, 200, 300, 250, 180, 500, 120, 30, 45, 210, 10];
+// for(i=0; i<booksPrice.length; i++){
+//     var bookPrice = booksPrice[i];
+//     if(bookPrice >= 200){
+//         continue;
+//     }
+//     console.log(bookPrice);
+// }
+
+var friends = ["Rahim", "Karim", "Saqibb", "Yeeeeeee", "yuuuuuuuuuuuu"];
