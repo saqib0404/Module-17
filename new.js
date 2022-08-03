@@ -69,9 +69,9 @@ var friends = ["Rahim", "Karim", "Saqibb", "Yeeeeeee", "yuuuu"];
 var temp = friends[0];
 
 for(var i = 0; i < friends.length; i++){
-    var element = friends[i];
-    if (element.length > temp.length){
-        temp = element;
+    var friend = friends[i];
+    if (friend.length > temp.length){
+        temp = friend;
     }
 }
 console.log(temp);
